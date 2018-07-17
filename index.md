@@ -1,4 +1,4 @@
-Software Engineer, free and open source software enthusiast. Likes to work on creative and interesting projects including computer vision, machine learning, deep learning, robotics, embeded systems, mobile applications, computer games. My research interests are computer vision and machine learning. My research area focuses on activity recognition.
+Likes free and open source software. Enjoys to work on creative and interesting projects including computer vision, machine learning, deep learning, robotics, embeded systems, mobile applications, computer games. My research interests are computer vision and machine learning. My research area focused on activity recognition.
 
 #### Education
 * M.S. - [Masters in Computer Vision](http://mscvision.u-bourgogne.fr) - Université de Bourgogne, France
