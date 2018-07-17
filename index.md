@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+Software Engineer, free and open source software enthusiast. Likes to work on creative and interesting projects including computer vision, machine learning, deep learning, robotics, embeded systems, mobile applications, computer games. My research interests are computer vision and machine learning. My research area focuses on activity recognition.
 
-You can use the [editor on GitHub](https://github.com/emreozanalkan/emreozanalkan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Education
+* M.S. - [Masters in Computer Vision](http://mscvision.u-bourgogne.fr) - Université de Bourgogne, France
+* B.S. - [Software Engineering](http://se.ieu.edu.tr/en) - Izmir University of Economics, Turkey
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Experience
+* Software Engineer - [Brainlab](https://brainlab.com) - 2017 - current
+* Junior Software Engineer - [Brainlab](https://brainlab.com) - 2016 - 1 year
+* Master Thesis Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2015 - 8 months
+* Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2014 - 2.5 months
+* Software Engineer - [broadAngle](http://www.broadangle.com/) - 2012 - 1 year
+* Software Engineer - [WebAcik](http://www.webacik.com/) - 2012 - 6 months
+* Software Engineer - [broadAngle](http://www.broadangle.com/) - 2009 - 3 years
+* Game Developer - [TOGOG](http://togog.net) - 2008 - 1 year
 
-### Markdown
+#### Research Areas
+* Activity Recognition
+* Object Recognition and Tracking
+* Pattern Recognition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Publications
+* **Data-driven spatio-temporal RGBD feature encoding for action recognition in operating rooms**, A. P. Twinanda, E. O. Alkan, A. Gangi, M. de Mathelin, N. Padoy. Int. J. Computer Assisted Radiology and Surgery 10(6): 737-747 (2015).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Programming Languages
+* C
+* C++/11/14/17
+* C#
+* Objective-C
+* Java
+* PHP
+* Matlab
+* Python
+* VHDL
+* Processing
 
-- Bulleted
-- List
+#### Libraries and Frameworks
+* QT
+* OpenCV
+* OpenGL
+* openFrameworks
+* ROS
+* XNA
+* CSLA.NET
+* OpenMP
+* Boost
+* Caffe
 
-1. Numbered
-2. List
+#### Languages
+* Turkish  - Native
+* English - Proficient
+* Russian - Basic
+* French - Basic
+* German - Basic
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emreozanalkan/emreozanalkan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Hobbies
+* Amateur rocketry - [Video](https://www.youtube.com/watch?v=_joHGQlfnpk)
+* Ardunio - [Video1](https://www.facebook.com/video.php?v=126149520816402&l=6275695430120259370) - [Video2](https://www.facebook.com/video.php?v=137349636363057&l=5653012473308325053)
+* UAVs
+* FPGAs
+* Swing dancing: Lindy Hop
+* Playing guitar
