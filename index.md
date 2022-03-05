@@ -5,14 +5,13 @@ Likes free and open source software. Enjoys to work on creative and interesting 
 * B.S. - [Software Engineering](http://se.ieu.edu.tr/en) - Izmir University of Economics, Turkey
 
 #### Experience
-* Software Engineer - [Brainlab](https://brainlab.com) - 2017 - current
-* Junior Software Engineer - [Brainlab](https://brainlab.com) - 2016 - 1 year
-* Master Thesis Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2015 - 8 months
-* Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2014 - 2.5 months
-* Software Engineer - [broadAngle](http://www.broadangle.com/) - 2012 - 1 year
-* Software Engineer - [WebAcik](http://www.webacik.com/) - 2012 - 6 months
-* Software Engineer - [broadAngle](http://www.broadangle.com/) - 2009 - 3 years
-* Game Developer - [TOGOG](http://togog.net) - 2008 - 1 year
+* Software Developer - Full Time - [TOMRA Sorting GmbH](https://www.tomra.com) - 2018 - Present
+* Software Engineer - Full Time - [Brainlab AG](https://brainlab.com) - 2017 - 2018
+* Junior Software Engineer - Full Time - [Brainlab AG](https://brainlab.com) - 2016 - 1 year
+* Master Thesis - Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2015 - 8 months
+* Summer Research - Intern - [CAMMA Research Group](http://camma.u-strasbg.fr/) - 2014 - 2.5 months
+* Software Engineer - Full Time - [broadAngle, LLC](http://www.broadangle.com/) - 2012 - 1 year
+* Software Engineer - Part Time - [broadAngle, LLC](http://www.broadangle.com/) - 2009 - 3 years
 
 #### Research Areas
 * Activity Recognition
@@ -25,7 +24,7 @@ Likes free and open source software. Enjoys to work on creative and interesting 
 
 #### Programming Languages
 * C
-* C++/11/14/17
+* C++/11/14/17/20
 * C#
 * Objective-C
 * Java
@@ -50,14 +49,14 @@ Likes free and open source software. Enjoys to work on creative and interesting 
 #### Languages
 * Turkish  - Native
 * English - Proficient
+* German - Basic
 * Russian - Basic
 * French - Basic
-* German - Basic
 
 #### Hobbies
 * Amateur rocketry - [Video](https://www.youtube.com/watch?v=_joHGQlfnpk)
 * Ardunio - [Video1](https://www.facebook.com/video.php?v=126149520816402&l=6275695430120259370) - [Video2](https://www.facebook.com/video.php?v=137349636363057&l=5653012473308325053)
 * UAVs
 * FPGAs
-* Swing dancing: Lindy Hop
+* Swing / Lindy Hop dancing
 * Playing guitar
